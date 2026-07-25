@@ -5,7 +5,7 @@ Frontend Developer | React • Next.js • TypeScript • Tailwind CSS • Node.
 </h3>
 
 <p align="center">
-Building responsive, scalable, and high-performance web applications with modern frontend technologies.
+Creating modern, user-focused web applications with clean architecture, responsive design, and optimized performance.
 </p>
 
 <p align="center">
