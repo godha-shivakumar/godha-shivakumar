@@ -5,7 +5,7 @@ Frontend Developer | React • Next.js • TypeScript
 </h3>
 
 <p align="center">
-Building scalable, responsive, and high-performance web applications with modern frontend  technologies.
+Building scalable, high-performance web applications with React, Next.js, and TypeScript.
 </p>
 
 <p align="center">
@@ -31,21 +31,21 @@ I'm a Frontend Developer from India focused on building scalable, accessible, an
 
 I specialize in:
 
-- Building responsive and accessible user interfaces
-- Developing React and Next.js applications
-- Creating REST APIs using Node.js and Express
-- Working with databases and full-stack application architecture
-- Writing clean, reusable, and maintainable code
+- Building reusable and scalable React components
+- Optimizing application performance and user experience
+- Developing responsive and accessible interfaces
+- Consuming REST APIs and integrating third-party services
+- Writing clean, maintainable, and type-safe code
 
 Currently improving my skills in:
 
 - Advanced Next.js
 - TypeScript architecture
-- Backend development
-- System design
+- React testing fundamentals
+- System design fundamentals
 - Web performance optimization
 
-🎯 Goal: Build impactful products, contribute to open source, and continuously grow as a software engineer.
+🎯 Goal: Build scalable, user-centric web applications, contribute to open source, and grow as a frontend engineer.
 
 
 ---
@@ -97,11 +97,11 @@ Features:
 ✅ Responsive UI  
 ✅ Modern component architecture  
 ✅ Optimized performance  
-✅ SEO friendly design  
+✅ SEO-friendly design  
 
-🔗 Live:
-https://skg-portfolio.vercel.app/
+🔗 **Live Demo:** [SKG Portfolio](https://skg-portfolio.vercel.app/)
 
+📂 **Repository:** [GitHub](https://github.com/godha-shivakumar/SKG-Portfolio)
 
 ---
 
@@ -119,9 +119,9 @@ Features:
 ✅ Local storage persistence  
 ✅ Responsive interface  
 
-🔗 Live:
-https://expense-tracker-delta-eight-86.vercel.app/
+🔗 **Live Demo:** [Expense Tracker](https://expense-tracker-delta-eight-86.vercel.app/)
 
+📂 **Repository:** [GitHub](https://github.com/godha-shivakumar/Expense-Tracker-React)
 
 ---
 
@@ -139,8 +139,9 @@ Features:
 ✅ Reusable components  
 
 
-🔗 Live:
-https://mini-ecommerce-app-vm89.vercel.app/
+🔗 **Live Demo:** [Mini E-Commerce App](https://mini-ecommerce-app-vm89.vercel.app/)
+
+📂 **Repository:** [GitHub](https://github.com/godha-shivakumar/mini-ecommerce-app)
 
 
 ---
@@ -157,6 +158,10 @@ Features:
 ✅ Interactive sections  
 ✅ Modern layouts  
 
+
+🔗 **Live Demo:** [Premier Schools Exhibition](https://premier-schools-exhibition-pearl.vercel.app/)
+
+📂 **Repository:** [GitHub](https://github.com/godha-shivakumar/premier-schools-exhibition)
 
 ---
 ## 🌐 Connect With Me
