@@ -116,7 +116,7 @@ Features:
 
 Expense management application built with:
 
-**React • Javascript • Tailwind CSS • REST API Integration**
+**React • JavaScript • Tailwind CSS • REST API Integration**
 
 Features:
 
