@@ -45,6 +45,13 @@ Currently improving my skills in:
 - System design fundamentals
 - Web performance optimization
 
+Currently Working On
+
+- Building scalable React and Next.js applications
+- Improving TypeScript patterns
+- Learning frontend testing practices
+- Optimizing web performance and accessibility
+
 🎯 Goal: Build scalable, user-centric web applications, contribute to open source, and grow as a frontend engineer.
 
 
@@ -105,11 +112,11 @@ Features:
 
 ---
 
-## 💰 Expense Tracker React
+## 💰 Expense Tracker
 
 Expense management application built with:
 
-**React • Tailwind CSS**
+**React • Javascript • Tailwind CSS • api-integration**
 
 Features:
 
@@ -125,7 +132,7 @@ Features:
 
 ---
 
-## 🛒 Mini E-Commerce App
+🛒 Mini E-Commerce Platform
 
 Frontend e-commerce platform built with:
 
@@ -162,6 +169,7 @@ Features:
 🔗 **Live Demo:** [Premier Schools Exhibition](https://premier-schools-exhibition-pearl.vercel.app/)
 
 📂 **Repository:** [GitHub](https://github.com/godha-shivakumar/premier-schools-exhibition)
+
 
 ---
 ## 🌐 Connect With Me
