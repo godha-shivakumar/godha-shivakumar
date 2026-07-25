@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Shiva Kumar Godha</h1>
 
 <h3 align="center">
-Frontend Developer | React.js • Next.js • TypeScript • Tailwind CSS
+Frontend Developer | React • Next.js • TypeScript • Tailwind CSS • Node.js | Building scalable, high-performance web applications.
 </h3>
 
 <p align="center">
@@ -26,14 +26,15 @@ Building responsive, scalable, and high-performance web applications with modern
 
 ## 🚀 About Me
 
-I'm a **Frontend Developer from India** passionate about creating modern web experiences.
+I'm a **Frontend Developer from India** passionate about building modern, scalable, and user-focused web applications.
 
 I specialize in:
 
+
 - Building responsive and accessible user interfaces
 - Developing scalable React and Next.js applications
-- Writing clean, maintainable, and reusable components
-- Optimizing frontend performance and user experience
+- Creating REST APIs and backend services with Node.js
+- Working with databases and full-stack application architecture
 
 Currently focused on improving my skills in:
 
@@ -63,12 +64,25 @@ Currently focused on improving my skills in:
 </div>
 
 
+
+### Backend & Database
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+<img src="https://skillicons.dev/icons?i=express" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>
+
+</div>
+
 ### Tools & Others
 
 <div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+<img src="https://skillicons.dev/icons?i=github" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45"/>
