@@ -95,7 +95,7 @@ Currently Working On
 
 ## 🚀 SKG Portfolio
 
-Modern developer portfolio built with:
+Modern frontend developer portfolio built with:
 
 **Next.js 15 • React 19 • TypeScript • Tailwind CSS**
 
@@ -116,7 +116,7 @@ Features:
 
 Expense management application built with:
 
-**React • Javascript • Tailwind CSS • api-integration**
+**React • Javascript • Tailwind CSS • REST API Integration**
 
 Features:
 
