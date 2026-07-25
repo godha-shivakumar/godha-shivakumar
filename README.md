@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I'm Shiva Kumar Godha</h1>
 
 <h3 align="center">
-Frontend Developer | React • Next.js • TypeScript • Node.js
+Frontend Developer | React • Next.js • TypeScript 
 </h3>
 
 <p align="center">
-Building scalable, responsive, and high-performance web applications with modern frontend and backend technologies.
+Building scalable, responsive, and high-performance web applications with modern frontend  technologies.
 </p>
 
 <p align="center">
@@ -64,19 +64,6 @@ Currently improving my skills in:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-
-</div>
-
-
-## Backend & Database
-
-<div>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-<img src="https://skillicons.dev/icons?i=express" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>
 
 </div>
 
