@@ -25,7 +25,7 @@ Building scalable, high-performance web applications with React, Next.js, and Ty
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a Frontend Developer from India focused on building scalable, accessible, and high-performance web applications.
 
